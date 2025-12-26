@@ -1,2 +1,2 @@
 # "Rock-Paper-Scissors" game
-A console-based "Rock Paper Scissors" game where you play against the computer. The first to win 5 rounds wins the game.
+A browser-based Rock Paper Scissors game with a graphical interface. Play against the computer in a race to 5 wins.
